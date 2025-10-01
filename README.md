@@ -1,4 +1,4 @@
-# BERTPropogandaDetection
+# BERTPropagandaDetection
 
 ## Overview
 Propaganda is not limited to news articles or political debates—it thrives in online communities. Reddit, in particular, hosts politically charged discussions filled with memes, sarcasm, and echo chambers that traditional propaganda detection models struggle with.
