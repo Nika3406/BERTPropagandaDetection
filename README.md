@@ -9,7 +9,7 @@ This project introduces a Reddit-only propaganda dataset and a BERT-based classi
 
 ## Objectives
 - Collect a large dataset of politically charged Reddit posts and replies.  
-- Use existing propaganda/fallacy benchmarks (PTC, MAFALDA, etc.) only as baselines, not for training.  
+- Use existing propaganda/fallacy benchmarks only as baselines, not for training.  
 - Manually annotate a Reddit dataset with propaganda categories.  
 - Fine-tune BERT-base on Reddit data.  
 - Deliver a tool that highlights propaganda techniques in real Reddit discussions.  
