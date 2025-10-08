@@ -21,9 +21,6 @@ While the model is trained only on Reddit, these benchmarks guide category defin
 
 - **Propaganda Techniques Corpus (PTC):** 18 techniques from news.  
 - **MAFALDA Dataset:** Logical fallacies in text.  
-- **Logical Fallacy Classification (Hugging Face):** 13 fallacies.  
-- **Political Debate Fallacy Dataset (IJCAI):** U.S. debates.  
-- **ElecDeb60to20 (EMNLP 2023):** Token-level fallacies in debates.  
 
 ---
 
