@@ -1,0 +1,4 @@
+praw
+pandas
+python-dotenv
+tqdm
